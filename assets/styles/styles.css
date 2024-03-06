@@ -1,0 +1,33 @@
+.fondomenu{
+    background-color:white;
+}
+
+.fuentemenu{
+    font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-size:30px; 
+  color: rgba(113, 104, 104, 0.703)
+}
+
+.home{
+    background-image: url(../img/Home.png);
+    background-attachment: fixed;
+    padding: 22%;
+    background-position: top center;
+    background-size: cover;
+
+}
+
+.fuentetextos{
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size:20px;
+  color:grey
+
+}
+
+.scroll{
+  scroll-behavior: smooth;
+}
